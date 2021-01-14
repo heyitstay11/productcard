@@ -4,3 +4,5 @@
 
 ----
 ##### product changes on click events
+
+![Card_ScreenShot](resource/Product_Card_SS.png)
